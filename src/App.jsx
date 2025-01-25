@@ -1,11 +1,10 @@
-import './App.css';
-
+import Translator from "./translatorComponent/Translator"
 
 function App() {
 
   return (
     <>
-      hello
+      <Translator />
     </>
   )
 }

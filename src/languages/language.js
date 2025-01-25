@@ -115,14 +115,14 @@ const lanuages = {
     "th-TH": "Thai",
     "tr-TR": "Turkish",
     "uk-UA": "Ukrainian",
-    "ur-PK": "Urdu",
+    "ur-PK": "Pakistani",
     "uz-UZ": "Uzbek",
     "vi-VN": "Vietnamese",
     "zh-CN": "Chinese (Simplified)",
     "zh-HK": "Chinese (Hong Kong)",
     "zh-TW": "Chinese (Traditional)",
     "zu-ZA": "Zulu"
-    
+
 };
 
 export default lanuages;
